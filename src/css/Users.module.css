@@ -1,0 +1,18 @@
+.list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.user {
+    padding: 10px;
+}
+
+.user span {
+    display: block;
+}
+
+.user span:first-child {
+    font-weight: bold;
+    margin: 0 0 5px;
+}

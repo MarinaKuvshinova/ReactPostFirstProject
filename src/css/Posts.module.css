@@ -1,0 +1,32 @@
+.container {
+    padding: 20px;
+}
+
+.container h1 {
+    margin: 0 0 20px;
+}
+
+.posts {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: white;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.post {
+    padding: 5px;
+    background: rgba(0, 0 ,255, .5);
+    margin: 0 0 5px;
+}
+
+.post h2 {
+    font-size: 18px;
+    line-height: 20px;
+    margin: 0 0 10px;
+}
+
+.post p {
+    margin: 0;
+}
